@@ -19,7 +19,7 @@ var dmp = dmp || {};
 dmp.auth = dmp.auth || {};
 
 /** The Drive application ID. */
-dmp.auth.APPLICATION_ID = "39436-36ee79efb657";
+dmp.auth.APPLICATION_ID = "36ee79efb657bf686d90a9b0008aeb6e64be190c";
 
 /** The app's Client ID. */
 dmp.auth.CLIENT_ID = "39436-36ee79efb657.apps.googleusercontent.com";
