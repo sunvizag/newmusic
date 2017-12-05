@@ -25,7 +25,7 @@ dmp.auth.APPLICATION_ID = "543871781652";
 dmp.auth.CLIENT_ID = "543871781652.apps.googleusercontent.com";
 
 /** Some Google OAuth 2.0 scopes. */
-dmp.auth.DRIVE_FILE_SCOPE = "https://www.googleapis.com/auth/drive.file";
+dmp.auth.DRIVE_FILE_SCOPE = "https://drive.google.com/drive/folders/18RjarJSvWNzI7joM_9EXaYKgOJYRI6xe";
 dmp.auth.DRIVE_INSTALL_SCOPE = "https://www.googleapis.com/auth/drive.install";
 dmp.auth.OPENID_SCOPE = "openid";
 
