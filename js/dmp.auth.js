@@ -19,10 +19,10 @@ var dmp = dmp || {};
 dmp.auth = dmp.auth || {};
 
 /** The Drive application ID. */
-dmp.auth.APPLICATION_ID = "astute-citadel-188119";
+dmp.auth.APPLICATION_ID = "6YIGrIUneyb0tp_4lYSz5m3v";
 
 /** The app's Client ID. */
-dmp.auth.CLIENT_ID = "astute-citadel-188119.apps.googleusercontent.com";
+dmp.auth.CLIENT_ID = "891022148259-4tb0ll1nkgg0tovlle9avicgpmhs1gmm.apps.googleusercontent.com";
 
 /** Some Google OAuth 2.0 scopes. */
 dmp.auth.DRIVE_FILE_SCOPE = "https://drive.google.com/drive/folders/18RjarJSvWNzI7joM_9EXaYKgOJYRI6xe";
