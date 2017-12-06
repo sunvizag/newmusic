@@ -27,13 +27,13 @@ dmp.auth.CLIENT_ID = "891022148259.apps.googleusercontent.com";
 /** Some Google OAuth 2.0 scopes. */
 dmp.auth.DRIVE_FILE_SCOPE = "https://www.googleapis.com/auth/drive.file";
 dmp.auth.DRIVE_INSTALL_SCOPE = "https://www.googleapis.com/auth/drive.install";
-dmp.auth.OPENID_SCOPE = "891022148259";
+dmp.auth.OPENID_SCOPE = "openid";
 
 /** The ID of the user that is currently authorized. */
 dmp.auth.userId = sun@vizag.tk;
 
 /** The currently used and valid Access Token. */
-dmp.auth.accessToken = 4/RE_LRldJNSGfKNu0VRVPV8W4iwCee_yVYJ7hZ8l_E4w;
+dmp.auth.accessToken = openid;
 
 /** The timestamp at which the current accessToken will expire. */
 dmp.auth.accessTokenExpieryTimestamp = undefined;
