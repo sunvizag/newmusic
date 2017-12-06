@@ -19,7 +19,7 @@ var dmp = dmp || {};
 dmp.lastfm = dmp.lastfm || {};
 
 /** The Key for the lastFM API. */
-dmp.lastfm.LASTFM_API_KEY = "17c11c0b6f517f57b31d3bb701730a25";
+dmp.lastfm.LASTFM_API_KEY = "AIzaSyCXUKy8t6yzqQDes1nIvlxnvFrb62j0Nrs";
 
 // Lets pool the requests to the Last FM API to avoid users loading tons of file to kill the app quota.
 dmp.lastfm.pool = [];
