@@ -22,7 +22,7 @@ dmp.auth = dmp.auth || {};
 dmp.auth.APPLICATION_ID = "891022148259";
 
 /** The app's Client ID. */
-dmp.auth.CLIENT_ID = "891022148259.apps.googleusercontent.com";
+dmp.auth.CLIENT_ID = "891022148259-4tb0ll1nkgg0tovlle9avicgpmhs1gmm.apps.googleusercontent.com";
 
 /** Some Google OAuth 2.0 scopes. */
 dmp.auth.DRIVE_FILE_SCOPE = "https://www.googleapis.com/auth/drive.file";
