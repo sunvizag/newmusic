@@ -10,7 +10,7 @@
   },
   "app" : {
     "launch" : {
-      "web_url" : "https://sunvizag.github.io/newmusic/"
+      "web_url" : "https://sunvizag.github.io/newmusic"
     }
   }
 }
