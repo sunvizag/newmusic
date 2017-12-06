@@ -27,7 +27,7 @@ dmp.auth.CLIENT_ID = "891022148259.apps.googleusercontent.com.apps.googleusercon
 /** Some Google OAuth 2.0 scopes. */
 dmp.auth.DRIVE_FILE_SCOPE = "https://www.googleapis.com/auth/drive.file";
 dmp.auth.DRIVE_INSTALL_SCOPE = "https://www.googleapis.com/auth/drive.install";
-dmp.auth.OPENID_SCOPE = "openid";
+dmp.auth.OPENID_SCOPE = "sun@vizag.tk";
 
 /** The ID of the user that is currently authorized. */
 dmp.auth.userId = undefined;
