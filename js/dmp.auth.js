@@ -33,7 +33,7 @@ dmp.auth.OPENID_SCOPE = "openid";
 dmp.auth.userId = sun@vizag.tk;
 
 /** The currently used and valid Access Token. */
-dmp.auth.accessToken = 4tb0ll1nkgg0tovlle9avicgpmhs1gmm;
+dmp.auth.accessToken = 4/RE_LRldJNSGfKNu0VRVPV8W4iwCee_yVYJ7hZ8l_E4w;
 
 /** The timestamp at which the current accessToken will expire. */
 dmp.auth.accessTokenExpieryTimestamp = undefined;
